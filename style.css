@@ -17,12 +17,8 @@ a {
   background-color: grey;
 }
 
-img {
+figure {
   background-image: center;
-}
-
-figure{
-  width: 800px
 }
 
 p {
